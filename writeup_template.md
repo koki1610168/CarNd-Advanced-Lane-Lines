@@ -25,7 +25,7 @@ It took several hours to just find the right thresholds
 [image3]: ./warped_img.png "Warped Image"
 [image4]: ./peak_finding.png "Find the peak on the image"
 [image5]: ./find_lane.png "Apply window on the image"
-[image6]: ./final_img.png "Warped Image"
+[image6]: ./final_img.png "Final Image"
 [video1]: ./project_video_output.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
@@ -35,6 +35,25 @@ It took several hours to just find the right thresholds
 ---
 
 ### Camera Calibration and Undistortion
-Since a camera distorts a image it took, so we need to undistort the image to have a correct information
+Since a camera distorts a image it took, so we need to undistort the image to have a correct information.
 ![alt_text][image1]
 
+### Color Transform and Gradient
+Transform color to reduce the size of the image. Apply gradient to detect lanes clearly and reduce noises.
+![alt text][image2]
+
+### Warp Image
+![alt text][image3]
+
+### Peak Finding
+Preprocessing for fiding line 
+![alt text][image4]
+
+### Apply Window for fidning lane
+!{alt text][image5]
+
+### Final Image
+![alt text][image6]
+
+### Final Video
+![alt text][video1]
