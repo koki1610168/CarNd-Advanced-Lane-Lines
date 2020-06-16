@@ -55,5 +55,4 @@ Preprocessing for fiding line
 ### Final Image
 ![alt text][image6]
 
-### Final Video
-![alt text][video1]
+[link to my video result](./project_video_output.mp4)
