@@ -20,13 +20,13 @@ It took several hours to just find the right thresholds
 
 [//]: # (Image References)
 
-[image1]: ~/Pictures/Advanced\ Lane\ Finding/undistort.png "Undistortion"
-[image2]: ./test_images/test1.jpg "Road Transformed"
-[image3]: ./examples/binary_combo_example.jpg "Binary Example"
-[image4]: ./examples/warped_straight_lines.jpg "Warp Example"
-[image5]: ./examples/color_fit_lines.jpg "Fit Visual"
-[image6]: ./examples/example_output.jpg "Output"
-[video1]: ./project_video.mp4 "Video"
+[image1]: ./Images/undistort.png "Undistortion"
+[image2]: ./Images/color_gradient.png "Color Transformt and Gradient"
+[image3]: ./Images/warped_img.png "Warped Image"
+[image4]: ./Images/peak_finding.png "Find the peak on the image"
+[image5]: ./Images/find_lane.png "Apply window on the image"
+[image6]: ./Images/final_img.png "Warped Image"
+[video1]: ./project_video_output.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
 
