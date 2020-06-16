@@ -20,12 +20,12 @@ It took several hours to just find the right thresholds
 
 [//]: # (Image References)
 
-[image1]: ./Images/undistort.png "Undistortion"
-[image2]: ./Images/color_gradient.png "Color Transformt and Gradient"
-[image3]: ./Images/warped_img.png "Warped Image"
-[image4]: ./Images/peak_finding.png "Find the peak on the image"
-[image5]: ./Images/find_lane.png "Apply window on the image"
-[image6]: ./Images/final_img.png "Warped Image"
+[image1]: ./undistort.png "Undistortion"
+[image2]: ./color_gradient.png "Color Transformt and Gradient"
+[image3]: ./warped_img.png "Warped Image"
+[image4]: ./peak_finding.png "Find the peak on the image"
+[image5]: ./find_lane.png "Apply window on the image"
+[image6]: ./final_img.png "Warped Image"
 [video1]: ./project_video_output.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
