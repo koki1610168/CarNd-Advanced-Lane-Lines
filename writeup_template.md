@@ -36,5 +36,5 @@ It took several hours to just find the right thresholds
 
 ### Camera Calibration and Undistortion
 Since a camera distorts a image it took, so we need to undistort the image to have a correct information
-[image1]
+![alt_text][image1]
 
